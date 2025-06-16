@@ -5,6 +5,8 @@
 This project implements a real-time weather data pipeline using a public weather API and Microsoft Azure services. It demonstrates how to automate data ingestion, processing, and visualization using Azure Databricks, Azure Functions, Event Hub, and Microsoft Fabric (Eventhouse + Power BI).
 
 ---
+## Data architecture
+![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/1ed5ba66-03f6-4d35-b708-2bbd03a6360a)
 
 ## 🚀 Steps Completed
 
