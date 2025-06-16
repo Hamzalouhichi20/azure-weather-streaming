@@ -36,17 +36,14 @@ This project implements a real-time weather data pipeline using a public weather
 - Built a **Power BI dashboard** from the Eventhouse in Fabric
 
 ---
-
-## 📸 Screenshots
-
 ### Azure Resources
-![Azure Resources](Screenshot%202025-06-16%20141245.png)
+![Screenshot 2025-06-16 141245](https://github.com/user-attachments/assets/fc6fd986-f5b0-4609-adc3-4dce889ee48f)
 
 ### Weather Data Preview
-![Weather Data Preview](Screenshot%202025-06-14%20222424.png)
+![Screenshot 2025-06-14 222424](https://github.com/user-attachments/assets/0974f5cb-3092-405e-b413-97e138462518)
 
 ### Eventstream Pipeline
-![Event Stream Pipeline](Screenshot%202025-06-14%20222007.png)
+![Screenshot 2025-06-14 222007](https://github.com/user-attachments/assets/783fb7a7-30d6-4b83-a604-b669f94e6484)
 
 ---
 
@@ -60,7 +57,3 @@ This project implements a real-time weather data pipeline using a public weather
 - **Power BI**
 - **Python**, **Spark**, **KQL**, **JSON**
 
----
-
-## 📅 Status
-✅ Project completed and working in real-time with scheduled API calls, streaming data, and Power BI dashboard.
