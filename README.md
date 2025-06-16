@@ -6,25 +6,6 @@ This project implements a real-time weather data pipeline using a public weather
 
 ---
 
-## 🧩 Architecture Overview
-![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/abba4505-862b-491d-829c-2ce8561323f6)
-
-### 📊 Visual Diagram
-
-```
-Weather API
-   ↓ (Azure Function or Databricks trigger)
-Azure Event Hub
-   ↓
-Databricks (processes and cleans data)
-   ↓
-Microsoft Fabric (Eventstream → Eventhouse)
-   ↓
-Power BI Dashboard
-```
-
----
-
 ## 🚀 Steps Completed
 
 ### 1. 🏗️ Resource Setup
